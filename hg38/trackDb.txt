@@ -1,5 +1,5 @@
 track NMIBC_intron_coverage
-bigDataUrl https://www.icloud.com/iclouddrive/0IgTfDMLmQoIo7ajGfA-DxURQ#NMIBC%5Fintron%5Fcoverage
+bigDataUrl https://aarhusuniversitet-my.sharepoint.com/:u:/g/personal/au546900_uni_au_dk/EY0si1YgOpFBjSScBRmt8SABT3kO8SPFy8mLRmzrAXBjog?e=ea547H
 shortLabel NMIBC_intron_coverage
 longLabel Intron coverage from 457 non-muscle invasive bladder cancer samples
 type bigWig
