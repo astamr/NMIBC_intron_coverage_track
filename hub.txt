@@ -1,0 +1,5 @@
+hub NMIBC_intron_coverage_hub
+shortLabel NMIBC_intron_coverage	
+longLabel Intron coverage from 457 NMIBC samples
+genomesFile genomes.txt
+email astamr@clin.au.dk
